@@ -1,2 +1,3 @@
-# brittle-opacity
-Brittle Opacity: Ambiguities of the Creative AI --- Paper
+# Brittle Opacity
+Ambiguities of the Creative AI
+Paper
