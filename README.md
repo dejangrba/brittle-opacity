@@ -1,7 +1,7 @@
 # Brittle Opacity
 ## Ambiguities of the Creative AI
 
-logo: [/brittle-opacity/predictive-art-bot-v3_35243296642_o-1000px.png]
+logo: https://dejangrba.github.io/brittle-opacity/predictive-art-bot-v3_35243296642_o-1000px.png
 
 ### Abstract
 
