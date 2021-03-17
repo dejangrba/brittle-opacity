@@ -1,6 +1,8 @@
 # Brittle Opacity
 ## Ambiguities of the Creative AI
 
+<img src="" alt="Logo" />
+
 ### Abstract
 
 This paper outlines the ambiguities which influence AI science, manifest in the production of AI artists, and shape the representation of creative AI in the media and in popular culture. Looking at the interrelated conceptual, technical, and expressive aspects of the prevailing approaches towards AI, it discusses some of the factors which obscure or mystify the important features of AI technologies vis-à-vis human cognition and artistic expression. Through a combination of tendencies and circumstances, these misconceptions and fallacies both emerge from and exacerbate the current issues of AI, which calls for vigilance and critical consideration by the creative actors and by the public.
