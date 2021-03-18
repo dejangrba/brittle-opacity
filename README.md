@@ -2,8 +2,8 @@
 ## Ambiguities of the Creative AI
 #### [GitHub Page](https://dejangrba.github.io/brittle-opacity/)
 
-![a](https://dejangrba.github.io/brittle-opacity/predictive-art-bot-v3_35243296642_o-1000px.png)
-Disnovation.org (Nicolas Maigret and Maria Roszkowska), &quot;Predictive Art Bot V3&quot; (2017). Photo: Gabriel Asper, CC NC-SA 4.0.
+![Disnovation.org (Nicolas Maigret and Maria Roszkowska), Predictive Art Bot V3 (2017).](https://dejangrba.github.io/brittle-opacity/predictive-art-bot-v3_35243296642_o-1000px.png)
+Disnovation.org (Nicolas Maigret and Maria Roszkowska), _Predictive Art Bot V3_ (2017). Photo: Gabriel Asper, CC NC-SA 4.0.
 
 ### Abstract
 This paper outlines the ambiguities which influence AI science, manifest in the production of AI artists, and shape the representation of creative AI in the media and in popular culture. Looking at the interrelated conceptual, technical, and expressive aspects of the prevailing approaches towards AI, it discusses some of the factors which obscure or mystify the important features of AI technologies vis-à-vis human cognition and artistic expression. Through a combination of tendencies and circumstances, these misconceptions and fallacies both emerge from and exacerbate the current issues of AI, which calls for vigilance and critical consideration by the creative actors and by the public.
