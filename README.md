@@ -1,6 +1,6 @@
 # Brittle Opacity
 ## Ambiguities of the Creative AI
-### [GitHub Page](https://dejangrba.github.io/brittle-opacity/)
+#### [GitHub Page](https://dejangrba.github.io/brittle-opacity/)
 
 ### Abstract
 
