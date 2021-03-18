@@ -67,8 +67,7 @@ Davies, Stephen. 2013. _The Artful Species: Aesthetics, Art, and Evolution_. Oxf
 
 Dimaggio, Paul, and Michael Useem. 1978. &quot;Social Class and Arts Consumption: The Origins and Consequences of Class Differences in Exposure to the Arts in America.&quot; _Theory and Society_, 5, 2: 141–161.
 
-Disnovation.org (Nicolas Maigret and Maria Roszkowska). 2017. &quot;Predictive Art Bot V3.&quot; Nicolas Maigret&#39;s website. [http://peripheriques.free.fr/blog/index.php?/works/2017-predictive-art-bot-v3/.](http://peripheriques.free.fr/blog/index.php?/works/2017-predictive-art-bot-v3/)
- Artbot Space. [http://artbot.space/. Twitter. http://twitter.com/predartbot.](http://artbot.space/. Twitter. http://twitter.com/predartbot)
+Disnovation.org (Nicolas Maigret and Maria Roszkowska). 2017. &quot;Predictive Art Bot V3.&quot; Nicolas Maigret&#39;s website: [http://peripheriques.free.fr/blog/index.php?/works/2017-predictive-art-bot-v3/.](http://peripheriques.free.fr/blog/index.php?/works/2017-predictive-art-bot-v3/) Artbot Space: [http://artbot.space/.](http://artbot.space/) Twitter: [http://twitter.com/predartbot.](http://twitter.com/predartbot)
 
 Dixon, Steve. 2019. _Cybernetic-Existentialism: Freedom, Systems, and Being-for-Others in Contemporary Arts and Performance_, 3. New York: Routledge.
 
