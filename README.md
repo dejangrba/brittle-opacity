@@ -8,7 +8,7 @@ With regards to the existing literature, which primarily addresses the creative 
 
 ### References
 
-Aguera y Arcas, Blaise, Alexander Todorov, and Margaret Mitchell. 2017. &quot;Physiognomy&#39;s New Clothes.&quot; _Medium_, 7 May. [XXX] (https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a).
+Aguera y Arcas, Blaise, Alexander Todorov, and Margaret Mitchell. 2017. &quot;Physiognomy&#39;s New Clothes.&quot; _Medium_, 7 May. [XXX](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a).
 
 Akten, Memo. 2017. &quot;Learning to See.&quot; Memo Akten&#39;s website. http://www.memo.tv/works/learning-to-see/.
 
