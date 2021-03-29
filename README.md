@@ -1,6 +1,5 @@
 # Brittle Opacity
 ## Ambiguities of the Creative AI
-<!-- #### [GitHub Page](https://dejangrba.github.io/brittle-opacity/) -->
 
 ![Disnovation.org (Nicolas Maigret and Maria Roszkowska), Predictive Art Bot V3 (2017).](https://dejangrba.github.io/brittle-opacity/predictive-art-bot-v3_35243296642_o-1000px.png)
 Disnovation.org (Nicolas Maigret and Maria Roszkowska), _Predictive Art Bot V3_ (2017). Photo: Gabriel Asper, CC NC-SA 4.0.
