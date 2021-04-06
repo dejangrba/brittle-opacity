@@ -7,7 +7,13 @@ Disnovation.org (Nicolas Maigret and Maria Roszkowska), _Predictive Art Bot V3_ 
 
 ### Abstract
 This paper outlines the ambiguities which influence AI science, manifest in the production of AI artists, and shape the representation of creative AI in the media and in popular culture. Looking at the interrelated conceptual, technical, and expressive aspects of the prevailing approaches towards AI, it discusses some of the factors which obscure or mystify the important features of AI technologies vis-à-vis human cognition and artistic expression. Through a combination of tendencies and circumstances, these misconceptions and fallacies both emerge from and exacerbate the current issues of AI, which calls for vigilance and critical consideration by the creative actors and by the public.
-With regards to the existing literature, which primarily addresses the creative AI issues from techno-scientific and historical perspectives, this study focuses on the ideas, methodologies, cultural contexts, and social impacts of AI art practices. It shows that current capabilities and transformative potentials of AI require artists—as well as scientists and entrepreneurs—to engage in a sharper critique of their motivations and goals, in a deeper creative investigation of their tools, and in a more nuanced scrutiny of their work. This will catalyze research in science, arts and humanities to define more robust concepts of creativity, to map its perspectives, and to inform our directives for further development and responsible application of AI. <!-- [(PDF)](https://github.com/dejangrba/brittle-opacity/raw/main/Dejan%20Grba%20-%202021%20-%20Brittle%20Opacity%20-%20Abstract.pdf) -->
+With regards to the existing literature, which primarily addresses the creative AI issues from techno-scientific and historical perspectives, this study focuses on the ideas, methodologies, cultural contexts, and social impacts of AI art practices. It shows that current capabilities and transformative potentials of AI require artists—as well as scientists and entrepreneurs—to engage in a sharper critique of their motivations and goals, in a deeper creative investigation of their tools, and in a more nuanced scrutiny of their work. This will catalyze research in science, arts and humanities to define more robust concepts of creativity, to map its perspectives, and to inform our directives for further development and responsible application of AI.
+
+### Publication
+xCoAx, 9th International Conference on Computation, Communication, Aesthetics and X Proceedings. Graz and online, 12-16 Jul 2021 (forthcoming).
+
+### Full Text
+Will be available upon publication.
 
 __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Learning, Intelligence, Machine Learning.
 
