@@ -10,6 +10,12 @@ With regards to the existing literature, which primarily addresses the creative 
 
 __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Learning, Intelligence, Machine Learning.
 
+### Publication
+xCoAx, 9th International Conference on Computation, Communication, Aesthetics and X Proceedings. Graz and online, 12-16 Jul 2021 (forthcoming).
+
+### Full Text
+Will be available upon publication.
+
 ### References
 Aguera y Arcas, Blaise, Alexander Todorov, and Margaret Mitchell. 2017. &quot;Physiognomy&#39;s New Clothes.&quot; _Medium_, 7 May. [https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a.](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
 
