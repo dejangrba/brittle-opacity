@@ -203,6 +203,8 @@ Raatikainen, Panu. 2021. &quot;Gödel&#39;s Incompleteness Theorems.&quot; In Ed
 
 Ramesh, Aditya, Mikhail Pavlov, Gabriel Goh, and Scott Gray. 2021. &quot;DALL·E: Creating Images from Text.&quot; OpenAI blog. [https://openai.com/blog/dall-e.](https://openai.com/blog/dall-e)
 
+Ridler, Anna. 2018. &quot;Myriad (Tulips).&quot; Anna Ridler’s website. [http://annaridler.com/myriad-tulips.](http://annaridler.com/myriad-tulips)
+
 Rothco. 2018. &quot;JFK Unsilenced.&quot; Rothco agency website. [https://rothco.ie/work/jfk-unsilenced.](https://rothco.ie/work/jfk-unsilenced)
 
 Roudavski, Stanislav and Jon McCormack. 2016. &quot;Post-anthropocentric Creativity.&quot; _Digital Creativity_, 27: 1, 3-6.
@@ -220,6 +222,8 @@ Shinseungback Kimyonghun. 2019. &quot;Mind.&quot; Shinseungback Kimyonghun&#39;s
 Sloss, Andrew N., and Steven Gustafson. 2019. &quot;Evolutionary Algorithms Review.&quot; [https://arxiv.org/pdf/1906.08870.](https://arxiv.org/pdf/1906.08870)
 
 Stallabrass, Julian. 2006. _Contemporary Art: A Very Short Introduction_. Oxford: Oxford University Press.
+
+Taylor, Grant D. 2014. _When the Machine Made Art: The Troubled History of Computer Art_. New York and London: Bloomsbury Press.
 
 Tegmark, Max. 2017. _Life 3.0: Being Human in the Age of Artificial Intelligence_. New York: Alfred A. Knopf.
 
