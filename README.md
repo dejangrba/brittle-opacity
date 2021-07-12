@@ -14,7 +14,7 @@ __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Lea
 xCoAx, 9th International Conference on Computation, Communication, Aesthetics and X Proceedings. Graz and online, 12-16 Jul 2021 (forthcoming).
 
 ### Full Text
-Will be available upon publication.
+[https://2021.xcoax.org/data/pdf/xCoAx2021-Grba.pdf](https://2021.xcoax.org/data/pdf/xCoAx2021-Grba.pdf).
 
 ### References
 Aguera y Arcas, Blaise, Alexander Todorov, and Margaret Mitchell. 2017. &quot;Physiognomy&#39;s New Clothes.&quot; Medium, 7 May. [https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a).
