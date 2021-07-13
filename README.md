@@ -10,7 +10,7 @@ This paper outlines the ambiguities which influence AI science, manifest in the 
 __Keywords:__ AI Art, Artificial Intelligence, Creative AI, Creativity, Deep Learning, Intelligence, Machine Learning.
 
 ### Publication
-xCoAx, 9th International Conference on Computation, Communication, Aesthetics and X Proceedings. Graz and online, 12-16 Jul 2021 (forthcoming).
+xCoAx, 9th International Conference on Computation, Communication, Aesthetics and X Proceedings. Graz and online, 12-16 Jul 2021.
 
 ### Full Text
 [https://2021.xcoax.org/data/pdf/xCoAx2021-Grba.pdf](https://2021.xcoax.org/data/pdf/xCoAx2021-Grba.pdf).
